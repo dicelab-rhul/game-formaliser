@@ -1,0 +1,1 @@
+Two suspects are arrested and interrogated separately. Each can either confess (defect) or remain silent (cooperate). If both remain silent, they get minor sentences. If one confesses and the other remains silent, the confessor goes free, and the silent one gets a heavy sentence. If both confess, they both get moderate sentences.

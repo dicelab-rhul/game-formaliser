@@ -1,0 +1,1 @@
+An owner of a small gallery and an owner of a big gallery each decide independently which of two painters to promote. If their choices match, the owner of the small gallery profits at the expense of the owner of the big gallery; if they don't, the owner of the big gallery profits.

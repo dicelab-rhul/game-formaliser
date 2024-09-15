@@ -1,0 +1,1 @@
+A labor union and company management are negotiating a new contract. Both can either compromise on wages and benefits or hold firm on their demands. If both compromise, a reasonable contract is agreed upon. If one holds firm and the other compromises, the firm holder gets more favorable terms. If both hold firm, negotiations may fail, leading to strikes and loss of productivity.
