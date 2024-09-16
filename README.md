@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a framework for autoformalising natural language game descriptions into their Prolog specification using Large Language Models.
+This is a framework for autoformalising natural language game-theoretical scenarios into their Prolog specification using Large Language Models.
 
 ## Installation
 
@@ -49,3 +49,9 @@ The structure of the project is as follows:
 │   ├── utils.py
 ├── experiment.py
 ```
+
+## Authors
+
+Agnieszka Mensfelt </br>
+Kostas Stathis </br>
+Vince Trencsenyi
