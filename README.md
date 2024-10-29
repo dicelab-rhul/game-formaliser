@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a framework for autoformalising natural language game-theoretical scenarios into their Prolog specification using Large Language Models.
+This is a framework for autoformalising natural language game-theoretical scenarios into their Prolog specification using Large Language Models. The framework and its evaluation are described in more detail in this [paper](https://arxiv.org/abs/2409.12300).
 
 ## Installation
 
@@ -55,3 +55,18 @@ The structure of the project is as follows:
 Agnieszka Mensfelt </br>
 Kostas Stathis </br>
 Vince Trencsenyi
+
+## Citing This Work
+
+```bibtex
+@inproceedings{mensfelt24a,
+  author       = {Agnieszka Mensfelt and
+                  Kostas Stathis and
+                  Vince Tencsenyi},
+  title        = {Autoformalization of {G}ame {D}escriptions Using {L}arge {L}anguage {M}odels},
+  booktitle    = {1st {I}nternational {W}orkshop on {N}ext-{G}eneration {L}anguage {M}odels for {K}nowledge {R}epresentation and {R}easoning},
+  address      = {Hanoi, Vietnam},
+  publisher    = {ArXiv},
+  year         = {2024},
+}
+```
